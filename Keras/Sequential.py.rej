@@ -1,9 +1,0 @@
-diff a/Keras/Sequential.py b/Keras/Sequential.py	(rejected hunks)
-@@ -0,0 +1,7 @@
-+# -*- coding: utf-8 -*-
-+"""
-+Created on Sat Apr 24 04:14:55 2021
-+
-+@author: Nrochen
-+"""
-+
